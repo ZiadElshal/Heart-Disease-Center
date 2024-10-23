@@ -1,7 +1,7 @@
 # Heart Disease Center 🖥️
 
 <p align="center">
-     <img src="img project\Capture.PNG" height="400px">
+     <img src="img\Capture.PNG" height="400px">
       <p align="center">
        <b>LOGIN PAGE</b>
      </p>
@@ -10,7 +10,7 @@
 <br>
 
  <p align="center">
-     <img src="img project\home_admin.png">
+     <img src="img\home_admin.png">
       <p align="center">
        <b>HOME PAGE</b>
      </p>
