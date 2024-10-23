@@ -34,9 +34,10 @@ The Cardiology Center project aims to create a windows-based system with the fol
 In summary, the Cardiology Center project aims to streamline the management of a cardiology clinic by providing a user-friendly platform for receptionists to register, manage healthcare professionals and patients, and facilitate doctor-patient interactions, including personalized follow-up care. This system enhances the efficiency and organization of the cardiology center's operations.
 
 ### ***To Run The System***
-- [click here](https://drive.google.com/drive/folders/1ZBCqccRZEeGqjz5phQNvVHW-jeIbS63t?usp=sharing)
+- [click here](https://drive.google.com/drive/folders/11Pprt4ROAoki_pB3iafN2UiFuvbar6Fo?usp=sharing)
 
 ## Project Team
+- [**Ziad Elshal**](https://github.com/ZiadElshal)
 - [**Abdelrhman Elshafey**](https://github.com/AbdelrhmanElshafey)
 - [**Diaa Rozik**](https://github.com/diaarozik)
 
